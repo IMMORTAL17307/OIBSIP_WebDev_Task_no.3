@@ -4,7 +4,8 @@ An interactive web tool built with HTML, CSS, and JavaScript for real-time tempe
 
 ### 👨‍💻 Developer Details
 * **Name:** Ishant Khare
-
+* **Domain:** Web Development
+* **Company:** Oasis Infobyte
 ### 🎯 Objective
 To create an interactive web application that instantly converts temperatures between Celsius, Fahrenheit, and Kelvin.
 
